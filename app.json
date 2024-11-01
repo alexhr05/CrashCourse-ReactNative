@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "reactNatveCrashCourse",
-    "slug": "reactNatveCrashCourse",
+    "name": "CrashCourseReactNative",
+    "slug": "CrashCourseReactNative",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
